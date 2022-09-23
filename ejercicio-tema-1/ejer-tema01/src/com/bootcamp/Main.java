@@ -1,3 +1,5 @@
+package com.bootcamp;
+
 public class Main {
     public static void main(String[] args) {
         int num_entero = 1;
